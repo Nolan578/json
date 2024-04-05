@@ -1,0 +1,22 @@
+{
+  "main": [
+    {
+      "id": 1,
+      "hello": "salom",
+      "oshna": "salom salom"
+    },{
+      "id": 2,
+      "hello": "salom",
+      "oshna": "salom salom"
+    },
+    {
+      "id": 3,
+      "hello": "salom",
+      "oshna": "salom salom"
+    },{
+      "id": 4,
+      "hello": "salom",
+      "oshna": "salom salom"
+    }
+  ]
+}
